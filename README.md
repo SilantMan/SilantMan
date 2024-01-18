@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS**
 
-- 📫 How to reach me **gopal.mbs737@gmail.com**
+- 📫 How to reach me **joygopal.mgt@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
